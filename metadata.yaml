@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35796'
     url: http://www.gutenberg.org/2009/agents/35796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41715#Dave-Dawson-with-the-R.A.F.
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2012-12-27'
 gutenberg_type: Text
